@@ -11,6 +11,6 @@ This case study revolves around Cyclistic, a fictional bike-share company, whose
 ## Analysis
 ### Data Source
 I curated the dataset for this analysis by transforming Excel tables into a structured format. The process involved meticulous data cleaning, where I removed null values to enhance data integrity. Additionally, I created multiple tables that serve as valuable assets in validating and reinforcing the findings of my analysis.
-For access to the data that I compiled and cleaned, kindly refer to [this link](https://console.cloud.google.com/bigquery?project=unified-gift-3188) which is publicly available on Google BigQuery.
+For access to the data that I compiled and cleaned, kindly refer to [this link](https://console.cloud.google.com/bigquery?project=unified-gift-318816&ws=!1m4!1m3!3m2!1sunified-gift-318816!2scyclistic_data_2023) which is publicly available on Google BigQuery.
 
 ## Conclusion
