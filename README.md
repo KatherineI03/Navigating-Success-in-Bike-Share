@@ -15,6 +15,6 @@ For access to the data that I compiled and cleaned, kindly refer to [this link](
 
 ### Financial Performance Analysis: Revenue Dissection by Membership Type
 In alignment with the primary objective of optimizing annual memberships for enhanced profitability, a comprehensive analysis was undertaken to ascertain the financial returns associated with distinct ride types. The results unequivocally underscored that riders with annual memberships significantly contribute to the company's revenue. This strategic insight emphasizes the pivotal role of annual memberships in augmenting the financial viability of the organization.
-![visualization_of_annual_profits](/images/annual_profits_by_ride_category.png)
+![visualization_of_annual_profits](/images/annual_profits_by_ride_category.jpg)
 ## Conclusion
 
