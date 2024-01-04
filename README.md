@@ -3,10 +3,10 @@
 <head>
   <style>
     body {
-      background-color: #ffffff; /* White background */
-      color: #000000; /* Black text */
-      font-family: Arial, sans-serif; /* Choose your preferred font */
-      margin: 20px; /* Add some margin for better readability */
+      background-color: '#ffffff'; /* White background */
+      color: '#000000'; /* Black text */
+      font-family: 'Arial, sans-serif'; /* Choose your preferred font */
+      margin: '20px'; /* Add some margin for better readability */
     }
   </style>
 </head>
