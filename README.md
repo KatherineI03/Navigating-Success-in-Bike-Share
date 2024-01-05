@@ -19,12 +19,18 @@ In alignment with the primary objective of optimizing annual memberships for enh
 
 ### Main Differences Between Casual Riders And Annual Members
 #### Day of Highest Usage by Member Type
+An initial differentiator observed during the analysis reveals distinct usage patterns between members with annual memberships and casual riders. Specifically, members with annual memberships exhibit heightened application utilization on Tuesdays, Wednesdays, and Thursdays. Conversely, casual riders demonstrate a pronounced preference for utilizing the application during the weekends, specifically on Fridays, Saturdays, and Sundays. This nuanced disparity in usage trends provides valuable insights into the distinct behavioral patterns of these user segments, facilitating targeted strategic decisions for maximizing engagement and conversion.
 ![visualization_of_days_of_highest_use_by_member_type](/images/days_of_highest_use_by_member_type.jpg)
+
 #### Month of Highest Usage by Member Type
+
 ![visualization_of_months_of_highest_use_by_member_type](/images/months_of_highest_use_by_member_type.jpg)
+
 #### Top 5 Stations Preferred By Casual Riders
 ![visualization_of_top_5_stations_preferred_by_casual_riders](/images/top_5_stations_preferred_by_casual_riders.jpg)
+
 #### Top 5 Stations Preferred By Annual Members
 ![visualization_of_top_5_stations_preferred_by_annual_members](/images/top_5_stations_preferred_by_annual_members.jpg)
+
 ## Conclusion
 
