@@ -25,6 +25,6 @@ In alignment with the primary objective of optimizing annual memberships for enh
 #### Top 5 Stations Preferred By Casual Riders
 ![visualization_of_top_5_stations_preferred_by_casual_riders](/images/top_5_stations_preferred_by_casual_riders.jpg)
 #### Top 5 Stations Preferred By Annual Members
-![visualization_of_top_5_stations_preferred_by_annual_members](/images/top_5_stations_preferred_by_annual_member.jpg)
+![visualization_of_top_5_stations_preferred_by_annual_members](/images/top_5_stations_preferred_by_annual_members.jpg)
 ## Conclusion
 
