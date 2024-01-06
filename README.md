@@ -33,7 +33,7 @@ A noteworthy finding in the analysis indicates a consistent trend among both mem
 ![visualization_of_top_5_stations_preferred_by_annual_members](/images/top_5_stations_preferred_by_annual_members.jpg)
 
 ## Conclusion
-In the analytical endeavor to maximize annual memberships and effectively convert casual riders into permanent members, several key insights stand out. The foremost is the crucial contribution of annual members to the company's revenue, underscoring the strategic importance of this membership category.
+To maximize annual memberships and effectively convert casual riders into permanent members, several key insights stand out. The foremost is the crucial contribution of annual members to the company's revenue, underscoring the strategic importance of this membership category.
 
 A distinctive aspect lies in the clear disparity in usage patterns between annual members and casual riders. While the former exhibit higher engagement on weekdays, particularly from Tuesday to Thursday, the latter show a marked preference for weekend usage, specifically on Fridays, Saturdays, and Sundays. This variation in usage habits presents significant strategic opportunities for maximizing engagement and facilitating effective conversion.
 
@@ -41,4 +41,4 @@ Another noteworthy finding is the consistent upward trend in application utiliza
 
 The identification of the top five preferred stations for each user type provides valuable insights for strategically localizing marketing efforts. Casual riders favor locations such as Streeter Dr & Grand Ave, DuSable Lake Shore Dr & Monroe St, Michigan Ave & Oak St, Millennium Park, and DuSable Lake Shore Dr & North Blvd. Meanwhile, annual members prefer stations such as Clinton St & Washington Blvd, Kingsbury St & Kinzie St, Clark St & Elm St, Clinton St & Madison St, and Wells St & Concord Ln.
 
-In summary, the analysis supports a weekend-focused marketing strategy during the summer months, with an emphasis on the identified preferred stations. This approach, backed by robust analytical conclusions, lays the groundwork for an effective, results-oriented marketing strategy.
+In summary, the analysis supports a weekend-focused marketing strategy during the summer months, with an emphasis on the identified preferred stations. This approach is supported by all the analyses presented and performed.
